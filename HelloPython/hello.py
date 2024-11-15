@@ -10,7 +10,7 @@ print("hello")
 for x in {1,2,3}:
     print(x)
     
-n=10
+n=1
 for i in range(n):
     print(i)
     
